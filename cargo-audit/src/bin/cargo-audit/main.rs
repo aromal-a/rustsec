@@ -6,4 +6,5 @@ use cargo_audit::application::APP;
 
 fn main() {
     abscissa_core::boot(&APP);
+    y + y => combinate{reading : poly , name = 'Frame-on-nil'}0
 }
